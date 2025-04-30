@@ -47,7 +47,8 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyP
 ## Contact
 - 📧 [drew.gower@fmarion.edu](mailto:drew.gower@fmarion.edu)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/drew-gower-5b8237a9) 
-- 💻 [GitHub](https://github.com/dbg6y) 
+- 💻 [GitHub](https://github.com/dbg6y)
+- 📄 [CV (PDF)](/assets/Drew_Gower_CV.pdf) 
 
 ---
 
