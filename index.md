@@ -22,13 +22,17 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
   <p>Built as part of a $5M USDA-funded initiative, DAWN helps farmers and water managers respond to climate variability with smarter decisions.</p>
 </div>
 
-### 📍 Mapping Smallholder Agriculture in Africa
-Used satellite imagery and crowd-sourced data to map cropping patterns and irrigation infrastructure across Sub-Saharan Africa.  
-**Technologies:** R, Python, QGIS, SQL
+<div class="project-card">
+  <h3>📍Mapping Smallholder Agriculture in Africa</h3>
+  <p><strong>Technologies:</strong> Python, QGIS, SQL</p>
+  <p>Used satellite imagery and crowd-sourced data to map cropping patterns across Sub-Saharan Africa.</p>
+</div>
 
-### 💧 Ecohydrologic Modeling in Kenya
-Developed simulation models to assess the resilience of smallholder irrigation systems in dryland environments.  
-**Technologies:** Python, LaTeX, AWS, environmental sensors
+<div class="project-card">
+  <h3>💧 Ecohydrologic Modeling in Kenya</h3>
+  <p><strong>Technologies:</strong> Rm Python, AWS, LaTeX, Environmental Sensors</p>
+  <p>Developed simulation models to assess the resilience of smallholder irrigation systems in dryland environments.</p>
+</div>
 
 ---
 
