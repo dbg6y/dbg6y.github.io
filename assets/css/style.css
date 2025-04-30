@@ -52,7 +52,7 @@ nav a:hover {
 }
 .hero {
   text-align: center;
-  padding: 2rem 0;
+  padding: 1rem 0;
   background-color: #e0f2f1;
   border-radius: 12px;
   margin-bottom: 2rem;
@@ -65,6 +65,28 @@ nav a:hover {
 .hero p {
   font-size: 1.2rem;
   color: #00695c;
+}
+.main-container {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+main {
+  flex: 3;
+}
+.sidebar {
+  flex: 1;
+  background-color: #f1f1f1;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 2rem;
+  max-width: 250px;
+  font-size: 0.95rem;
+}
+.sidebar a {
+  word-break: break-word;
 }
 .project-card {
   border: 1px solid #ddd;
