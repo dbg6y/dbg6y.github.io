@@ -88,6 +88,13 @@ main {
 .sidebar a {
   word-break: break-word;
 }
+.sidebar h3 {
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 1rem;
+}
+.sidebar p {
+  margin-bottom: 0.8rem;
+}
 .project-card {
   border: 1px solid #ddd;
   border-radius: 8px;
