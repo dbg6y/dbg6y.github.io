@@ -15,10 +15,12 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
 ---
 
 ## Projects
-### 🌾 DAWN Dashboard
-**A predictive decision support system for agricultural water and nutrient management**  
-Built as part of a $5M USDA-funded initiative, DAWN helps farmers and water managers respond to climate variability with smarter decisions.  
-**Technologies:** Python, climate models
+
+<div class="project-card">
+  <h3>🌾 DAWN Dashboard</h3>
+  <p><strong>Technologies:</strong> Python, Climate models</p>
+  <p>Built as part of a $5M USDA-funded initiative, DAWN helps farmers and water managers respond to climate variability with smarter decisions.</p>
+</div>
 
 ### 📍 Mapping Smallholder Agriculture in Africa
 Used satellite imagery and crowd-sourced data to map cropping patterns and irrigation infrastructure across Sub-Saharan Africa.  
