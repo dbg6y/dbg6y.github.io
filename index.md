@@ -50,11 +50,6 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyP
 
 ---
 
-## CV
-- 📄 [CV (PDF)](/assets/250430_Gower_CV.pdf) 
-
----
-
 _Last updated: April 2025_
 
 ---
