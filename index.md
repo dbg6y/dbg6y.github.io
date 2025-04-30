@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Welcome to My Professional Site
+title: Drew Gower
 ---
 
 ## About Me
