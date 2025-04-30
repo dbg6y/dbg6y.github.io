@@ -1,10 +1,10 @@
 ---
+
 layout: default
 title: Welcome to My Professional Site
 ---
 
 ## About Me
-
 I hold a Ph.D. in Civil & Environmental Engineering from Princeton University and currently serve as an Assistant Professor at Francis Marion University. My work blends environmental science with modern data tools to understand complex systems, forecast resource availability, and support decision-making under uncertainty.
 
 **Specialties:**
@@ -12,8 +12,8 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
 - Machine learning for environmental data
 - Hydrologic & agricultural systems
 - Data visualization and web dashboards
-
 ---
+
 ## Projects
 ### 🌾 DAWN Dashboard
 **A predictive decision support system for agricultural water and nutrient management**  
@@ -27,31 +27,26 @@ Used satellite imagery and crowd-sourced data to map cropping patterns and irrig
 ### 💧 Ecohydrologic Modeling in Kenya
 Developed simulation models to assess the resilience of smallholder irrigation systems in dryland environments.  
 **Technologies:** MODFLOW, R, LaTeX, field sensors
+---
 
 ## Publications
 I’ve published over a dozen peer-reviewed articles, including in *Nature Geoscience*, *Water Resources Research*, and *Environmental Research Letters*.
 
 See full list on [Google Scholar](https://scholar.google.com/) *(link to your profile)*
-
 ---
 
 ## Skills
-
 **Languages:** Python, R, SQL, Bash, LaTeX, MATLAB  
 **GIS & Remote Sensing:** ArcGIS, QGIS, MODIS, Landsat  
 **Cloud & Tools:** AWS, Git, GitHub, Linux, MODFLOW
-
 ---
 
 ## Contact
-
 - 📧 [drew.gower@fmarion.edu](mailto:drew.gower@fmarion.edu)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/drew-gower-5b8237a9) 
 - 💻 [GitHub](https://github.com/dbg6y) 
-
 ---
 
 _Last updated: April 2025_
-
 ---
 
