@@ -18,15 +18,15 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
 ### 🌾 DAWN Dashboard
 **A predictive decision support system for agricultural water and nutrient management**  
 Built as part of a $5M USDA-funded initiative, DAWN helps farmers and water managers respond to climate variability with smarter decisions.  
-**Technologies:** Python, AWS, climate data, dashboard development
+**Technologies:** Python, climate models
 
 ### 📍 Mapping Smallholder Agriculture in Africa
 Used satellite imagery and crowd-sourced data to map cropping patterns and irrigation infrastructure across Sub-Saharan Africa.  
-**Technologies:** ArcGIS, MODIS imagery, Python, QGIS
+**Technologies:** R, Python, QGIS, SQL
 
 ### 💧 Ecohydrologic Modeling in Kenya
 Developed simulation models to assess the resilience of smallholder irrigation systems in dryland environments.  
-**Technologies:** MODFLOW, R, LaTeX, field sensors
+**Technologies:** Python, LaTeX, AWS, environmental sensors
 
 ---
 
