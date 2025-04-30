@@ -32,7 +32,7 @@ Developed simulation models to assess the resilience of smallholder irrigation s
 ## Publications
 I’ve published over a dozen peer-reviewed articles, including in *Nature Geoscience*, *Water Resources Research*, and *Environmental Research Letters*.
 
-See full list on [Google Scholar](https://scholar.google.com/) *(link to your profile)*
+See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyPejkAAAAJ&hl=en)
 ---
 
 ## Skills
