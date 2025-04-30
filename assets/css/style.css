@@ -34,3 +34,19 @@ code {
   padding: 0.2rem 0.4rem;
   border-radius: 4px;
 }
+.hero {
+  text-align: center;
+  padding: 2rem 0;
+  background-color: #e0f2f1;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+.hero h1 {
+  margin-bottom: 0.3rem;
+  font-size: 2.5rem;
+  color: #004d40;
+}
+.hero p {
+  font-size: 1.2rem;
+  color: #00695c;
+}
