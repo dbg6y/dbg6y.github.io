@@ -30,7 +30,7 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
 
 <div class="project-card">
   <h3>💧 Ecohydrologic Modeling in Kenya</h3>
-  <p><strong>Technologies:</strong> Rm Python, AWS, LaTeX, Environmental Sensors</p>
+  <p><strong>Technologies:</strong> R, Python, AWS, LaTeX, Environmental Sensors</p>
   <p>Developed simulation models to assess the resilience of smallholder irrigation systems in dryland environments.</p>
 </div>
 
