@@ -86,11 +86,13 @@ main {
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
   position: sticky;
   top: 2rem;
-  max-width: 250px;
+  max-width: 300px;
+  min-width: 250px;
   font-size: 0.95rem;
+  word-break: normal;
 }
 .sidebar a {
-  word-break: break-word;
+  overflow-wrap: anywhere;
   text-decoration: none;
 }
 .sidebar a:hover {
