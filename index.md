@@ -44,8 +44,8 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyP
 ---
 
 ## Skills
-**Languages:** Python, R, SQL, Bash, LaTeX, MATLAB\
-**GIS & Remote Sensing:** ArcGIS, QGIS, Earth Engine\ 
+**Languages:** Python, R, SQL, Bash, LaTeX, MATLAB  
+**GIS & Remote Sensing:** ArcGIS, QGIS, Earth Engine  
 **Cloud & Tools:** AWS, Git, Linux, Tensorflow, Torch
 
 ---
