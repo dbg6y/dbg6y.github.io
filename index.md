@@ -50,7 +50,7 @@ See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyP
 
 ---
 
-_Last updated: April 2025_
+_Last updated: {{ site.time | date: "%B %Y" }}_
 
 ---
 
