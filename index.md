@@ -14,17 +14,15 @@ I hold a Ph.D. in Civil & Environmental Engineering from Princeton University an
 
 ---
 
-## Publications
-I’ve published over a dozen peer-reviewed articles, including in *Nature Geoscience*, *Water Resources Research*, and *Environmental Research Letters*.
+## Teaching
 
-See full list on [Google Scholar](https://scholar.google.com/citations?user=aOyPejkAAAAJ&hl=en)
+I teach GIS, environmental science, and sustainability. 
 
 ---
 
-## Skills
-**Languages:** Python, R, SQL, Bash, LaTeX, MATLAB  
-**GIS & Remote Sensing:** ArcGIS, QGIS, Earth Engine  
-**Cloud & Tools:** AWS, Git, Linux, Tensorflow, Torch
+## Research
+
+My work focuses on ecohydrology, smallholder agriculture, and geospatial analysis. Publications on [Google Scholar](#).
 
 ---
 
