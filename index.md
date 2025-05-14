@@ -3,25 +3,11 @@ layout: default
 title: Drew Gower
 ---
 
-## About Me
-I hold a Ph.D. in Civil & Environmental Engineering from Princeton University and currently serve as an Assistant Professor at Francis Marion University. My work blends environmental science with modern data tools to understand complex systems, forecast resource availability, and support decision-making under uncertainty.
+## About
+I am an Assistant Professor in the Biology Department at Francis Marion University in Florence, South Carolina. Since joining the department in Fall 2023 I've taught Introduction to Environmental Science, Introduction to Sustainability, Water Quality & Water Resources Management, and Introduction to Mapping and GIS.
 
-**Specialties:**
-- Geospatial modeling (GIS, remote sensing)
-- Machine learning for environmental data
-- Hydrologic & agricultural systems
-- Data visualization and web dashboards
+My work blends environmental science with modern data tools to understand landscape evolution, identify vulnerable ecosystems, and support sustainable agricultural production. 
 
----
+Before joining adademia, I was a [Peace Corps](https://www.peacecorps.gov/) volunteer in Burkina Faso and a program manager in the Middle East section at the US Forest Service [Office of International Programs](https://www.fs.usda.gov/about-agency/international-programs).
 
-## Teaching
-
-I teach GIS, environmental science, and sustainability. 
-
----
-
-## Research
-
-My work focuses on ecohydrology, smallholder agriculture, and geospatial analysis.
-
----
+Please get in touch with me via email at drew.gower[at]fmarion.edu.
