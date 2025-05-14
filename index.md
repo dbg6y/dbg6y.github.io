@@ -22,10 +22,6 @@ I teach GIS, environmental science, and sustainability.
 
 ## Research
 
-My work focuses on ecohydrology, smallholder agriculture, and geospatial analysis. Publications on [Google Scholar](#).
-
----
-
-_Last updated: {{ site.time | date: "%B %Y" }}_
+My work focuses on ecohydrology, smallholder agriculture, and geospatial analysis.
 
 ---

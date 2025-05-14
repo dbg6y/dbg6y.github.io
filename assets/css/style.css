@@ -4,18 +4,16 @@ body {
   color: #222;
   background-color: #fff;
   font-size: 1rem;
-  margin: 4rem auto;
+  margin: 0;
   max-width: 700px;
-  padding: 0 1rem;
+  padding: 0;
 }
-
 h1, h2, h3 {
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 1rem;
   color: #000;
 }
-
 a {
   color: #0366d6;
   text-decoration: none;
@@ -23,19 +21,43 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-pre, code {
-  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
-  background-color: #f6f8fa;
-  padding: 0.5rem;
-  border-radius: 6px;
-  overflow-x: auto;
+.two-column-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  margin: 4rem auto;
+  gap: 4rem;
+  padding: 0 2rem;
 }
-
+.left-column {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  max-width: 250px;
+}
+.right-column {
+  flex: 2.5;
+}
+@media (max-width: 768px) {
+  .two-column-container {
+    flex-direction: column;
+  }
+  .left-column {
+    max-width: 100%;
+    margin-bottom: 2rem;
+  }
+}
 footer {
   font-size: 0.9rem;
   color: #666;
   text-align: center;
   margin-top: 4rem;
   padding: 2rem 0;
+}
+pre, code {
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+  background-color: #f6f8fa;
+  padding: 0.5rem;
+  border-radius: 6px;
+  overflow-x: auto;
 }
