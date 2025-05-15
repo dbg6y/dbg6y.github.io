@@ -84,6 +84,7 @@ pre, code {
 @media (max-width: 768px) {
   .two-column-container {
     flex-direction: column;
+    margin: 2rem auto 1rem auto;
   }
 
   .left-column {
@@ -94,7 +95,6 @@ pre, code {
   }
 
   .right-column {
-    margin-top: 0;
     border-bottom: 1px solid #ddd; /* Divider between stacked columns */
   }
 
