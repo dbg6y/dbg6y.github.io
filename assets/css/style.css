@@ -17,11 +17,24 @@ h1, h2, h3 {
   color: #000;
 }
 
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
 /* Links */
 a {
   color: #447abd;
   text-decoration: none;
 }
+
 a:hover {
   text-decoration: underline;
 }
