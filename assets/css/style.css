@@ -44,7 +44,7 @@ a:hover {
   display: flex;
   flex-direction: row;
   max-width: 1000px;
-  margin: 2rem auto;
+  margin: 4rem auto;
   gap: 4rem;
   padding: 0 2rem;
 }
@@ -77,6 +77,10 @@ a:hover {
 
   .right-column {
     margin-top: 0;
+  }
+
+  .right-column h1:first-child, .right-column h2:first-child {
+    margin-top: 1rem;
   }
 
   body {
