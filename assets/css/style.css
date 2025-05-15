@@ -62,32 +62,6 @@ a:hover {
   flex: 2.5;
 }
 
-/* Responsive/mobile adjustments */
-@media (max-width: 768px) {
-  .two-column-container {
-    flex-direction: column;
-  }
-
-  .left-column {
-    max-width: 100%;
-    margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid #ddd; /* Divider between stacked columns */
-  }
-
-  .right-column {
-    margin-top: 0;
-  }
-
-  .right-column h1:first-child, .right-column h2:first-child {
-    margin-top: 1rem;
-  }
-
-  body {
-    padding: 1rem;
-  }
-}
-
 /* Footer */
 footer {
   font-size: 0.9rem;
@@ -104,4 +78,31 @@ pre, code {
   padding: 0.5rem;
   border-radius: 6px;
   overflow-x: auto;
+}
+
+/* Responsive/mobile adjustments */
+@media (max-width: 768px) {
+  .two-column-container {
+    flex-direction: column;
+  }
+
+  .left-column {
+    max-width: 100%;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ddd; /* Divider between stacked columns */
+  }
+
+  .right-column {
+    margin-top: 0;
+    border-bottom: 1px solid #ddd; /* Divider between stacked columns */
+  }
+
+  .right-column h1:first-child, .right-column h2:first-child {
+    margin-top: 1rem;
+  }
+
+  body {
+    padding: 1rem;
+  }
 }
