@@ -86,6 +86,7 @@ pre, code {
   .two-column-container {
     flex-direction: column;
     margin: 2rem auto 1rem auto;
+    gap: 1rem;
   }
 
   .left-column {
